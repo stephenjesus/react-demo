@@ -1,0 +1,5 @@
+const FILES = {
+    "1021762": "https://drive.usercontent.google.com/download?id=1xLOxrnNvGvkpoZO-RW1mWKTbfvS3rnKC&export=download&authuser=0"
+}
+
+module.exports = { FILES }
