@@ -88,5 +88,70 @@
       "name": "AMCAT Mock Test Papers with Answers PDF", 
       "path": "/amcat-mock-test-papers-with-answers-pdf", 
       "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/8HJwe6PRr2AW7yjlRBH0_7jWYuulFQqW7NYn5HX1I_37612961c0a14f62b17ebc16c7125cd7_0x0_webp.webp" 
-    }
+    },
+    {
+    "name": "Cognizant Aptitude Questions",
+    "path": "/cognizant-aptitude-questions",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SPARt6c6TfiHJ2ksdPfA_FxlOl4HQPaGrbcPf0Eag_221906c3a0b84a60b5d087de4970ce56_248x248_webp.webp"
+  },
+  {
+    "name": "CTS Aptitude Questions",
+    "path": "/cts-aptitude-questions",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SPARt6c6TfiHJ2ksdPfA_FxlOl4HQPaGrbcPf0Eag_221906c3a0b84a60b5d087de4970ce56_248x248_webp.webp"
+  },
+  {
+    "name": "Cognizant Aptitude Assessment",
+    "path": "/cognizant-aptitude-assessment",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SPARt6c6TfiHJ2ksdPfA_FxlOl4HQPaGrbcPf0Eag_221906c3a0b84a60b5d087de4970ce56_248x248_webp.webp"
+  },
+  {
+    "name": "Cognizant Technical Assessment",
+    "path": "/cognizant-technical-assessment",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SPARt6c6TfiHJ2ksdPfA_FxlOl4HQPaGrbcPf0Eag_221906c3a0b84a60b5d087de4970ce56_248x248_webp.webp"
+  },
+  {
+    "name": "Cognizant Aptitude Questions with Answers",
+    "path": "/cognizant-aptitude-questions-with-answers",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SPARt6c6TfiHJ2ksdPfA_FxlOl4HQPaGrbcPf0Eag_221906c3a0b84a60b5d087de4970ce56_248x248_webp.webp"
+  },
+  {
+    "name": "Cognizant AMCAT Questions",
+    "path": "/cognizant-amcat-questions",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/8HJwe6PRr2AW7yjlRBH0_7jWYuulFQqW7NYn5HX1I_37612961c0a14f62b17ebc16c7125cd7_0x0_webp.webp"
+  },
+  {
+    "name": "TCS Aptitude Questions",
+    "path": "/tcs-aptitude-questions",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SKXlnGoDReasrlDbuFHI_6y6ZIfk9TIO3snwHBvmw_1e4474a30f8349859f3dfdcddd333ef1_0x0_webp.webp"
+  },
+  {
+    "name": "TCS Question Paper",
+    "path": "/tcs-question-paper",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SKXlnGoDReasrlDbuFHI_6y6ZIfk9TIO3snwHBvmw_1e4474a30f8349859f3dfdcddd333ef1_0x0_webp.webp"
+  },
+  {
+    "name": "TCS Aptitude Questions with Answers",
+    "path": "/tcs-aptitude-questions-with-answers",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SKXlnGoDReasrlDbuFHI_6y6ZIfk9TIO3snwHBvmw_1e4474a30f8349859f3dfdcddd333ef1_0x0_webp.webp"
+  },
+  {
+    "name": "TCS NQT Previous Papers",
+    "path": "/tcs-nqt-previous-papers",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SKXlnGoDReasrlDbuFHI_6y6ZIfk9TIO3snwHBvmw_1e4474a30f8349859f3dfdcddd333ef1_0x0_webp.webp"
+  },
+  {
+    "name": "TCS Previous Year Question Papers",
+    "path": "/tcs-previous-year-question-papers",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SKXlnGoDReasrlDbuFHI_6y6ZIfk9TIO3snwHBvmw_1e4474a30f8349859f3dfdcddd333ef1_0x0_webp.webp"
+  },
+  {
+    "name": "TCS BPS Test Questions",
+    "path": "/tcs-bps-test-questions",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SKXlnGoDReasrlDbuFHI_6y6ZIfk9TIO3snwHBvmw_1e4474a30f8349859f3dfdcddd333ef1_0x0_webp.webp"
+  },
+  {
+    "name": "TCS Aptitude Questions and Answers PDF",
+    "path": "/tcs-aptitude-questions-and-answers-pdf",
+    "image": "https://storeassets.im-cdn.com/media-manager/placementmentor/SKXlnGoDReasrlDbuFHI_6y6ZIfk9TIO3snwHBvmw_1e4474a30f8349859f3dfdcddd333ef1_0x0_webp.webp"
+  }
   ]
